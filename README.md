@@ -1,11 +1,10 @@
 # UAS-API-PERPUSTAKAAN
-Script PHP digunakan untuk membuat aplikasi manajemen peminjaman buku dengan menggunakan HTML, CSS (Bootstrap), dan JavaScript (sedikit) di dalamnya. Bahasa yang digunakan adalah PHP, dengan beberapa library dan fungsi bawaan PHP seperti mysqli untuk interaksi dengan database MySQL.
+Script PHP digunakan untuk membuat aplikasi manajemen peminjaman buku dengan menggunakan HTML. Bahasa yang digunakan adalah PHP, dengan beberapa library dan fungsi bawaan PHP seperti mysqli untuk interaksi dengan database MySQL.
 
 **Berikut adalah komponen-komponen utama dalam script ini:**
 - Server-Side Scripting
 - PHP Native Functions
-- HTML dan Bootstrap
-- JavaScript
+- HTML
 - SQL Query
   
 ## Menjalankan API menggunakan Postman
