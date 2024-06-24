@@ -7,6 +7,11 @@ Script PHP digunakan untuk membuat aplikasi manajemen peminjaman buku dengan men
 - HTML
 - SQL Query
   
+
+## CARA MENJALANKAN
+- 1. RUBAH NAMA FOLDER FILE YANG DI DOWNLOAD (API-PERPUSTAKAAN-main) Rubah Menjadi API-PERPUSTAKAAN
+- 2. IMPORT FILE DATABASE NYA MENGGUNAKAN PHPMYADMIN DENGAN NAMA FOLDER DATABASE LALU PILIH DATABASE.SQL
+
 ## Menjalankan API menggunakan Postman
 **Untuk mengambil seluruh data**
 - Method: GET
