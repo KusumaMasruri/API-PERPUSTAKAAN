@@ -55,7 +55,7 @@ Script PHP digunakan untuk membuat aplikasi manajemen peminjaman buku dengan men
 - URL : http://localhost/API-PERPUSTAKAAN/api.php/1
 
 
-## Menjalankan WEB Sistem Perpustakaan
+## Menjalankan WEB Sistem Perpustakaan (TAMBAHAN)
 URL : http://localhost/API-PERPUSTAKAAN/index.php
 
 ## Fitur Web:
